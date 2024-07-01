@@ -101,7 +101,7 @@ git push origin development
 ```
 
 ---
-## Merging `development` into `main` (production branch) after testing and QA
+## Merging `development` into `main` after testing and QA
 
 1. **Switch to the `main` branch**
 
