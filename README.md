@@ -2,6 +2,13 @@
 
 This document outlines steps to set up a Git repo and manage the branching workflow for dev & prod
 
+## Table of Contents
+  - [Initializing the Repository](#initializing-the-repository)
+  - [Creating and Using the `development` Branch](#creating-and-using-the-development-branch)
+  - [Work on development branch](#work-on-development-branch)
+  - [Merging `development` into `main` After Testing and QA](#merging-development-into-main-after-testing-and-qa)
+  - [Summary of Commands](#summary-of-commands)
+
 ## Initializing the repository
 
 1. **Initialize Git repo**
@@ -128,8 +135,8 @@ git status
 ```bash
 git push origin main
 ```
-
-
+---
+---
 ## Summary of Commands
 
 ```bash
