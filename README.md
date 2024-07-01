@@ -1,5 +1,7 @@
 # Git Branching workflow
 
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
 This document outlines steps to set up a Git repo and manage the branching workflow for dev & prod
 
 ## Table of Contents
